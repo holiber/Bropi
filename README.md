@@ -35,4 +35,8 @@ Goal7: Bropi can take your website url and migrate it to a different platform/cm
 - url2Directus
 
 Goal8: You can extend Bropi with your own plugins
+
+Goal9: Bropi can optimize the context for your LLM and make it supper efficient
+ 
+Goal10: Bropi can significaly optimize tool usage of your LLM 
  
