@@ -33,6 +33,8 @@ Goal7: Bropi can take your website url and migrate it to a different platform/cm
 - url2STC
 - url2Strapi
 - url2Directus
+- url2Decap
+- url2Contentful
 
 Goal8: You can extend Bropi with your own plugins
 
